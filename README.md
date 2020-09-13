@@ -4,10 +4,15 @@ I am Misha Dey. I primarily work in the field of Machine Learning and Cyber Secu
 Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
 
  ✨ I’have worked on Projects :
-      1. Analysis Of Effects Of News Sentiments On Stock Predictions  
+ 
+      1. Analysis Of Effects Of News Sentiments On Stock Predictions 
+      
       2. Implementation Of Secure Email System Using PGP and GPG Encryption And Development Of Script
+      
       3. Content Based Recommendation System Using BOW and TF IDF
+      
       4. Image Filter Effects System Using Facial Keypoints Detection
+      
       5. Network Traffic Analysis Email Header Review Ports Scanning and SQL Injection
       
  🔭 I’m currently working on Projects :

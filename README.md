@@ -1,16 +1,33 @@
 ### Hi there 👋
+I am Misha Dey. I primarily work in the field of Machine Learning and Cyber Security. I am enthusiast who is always looking forward to explore and learn more.
 
-<!--
-**MishaDey/MishaDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
 
-Here are some ideas to get you started:
+ ✨ I’have worked on Projects :
+      1. Analysis Of Effects Of News Sentiments On Stock Predictions  
+      2. Implementation Of Secure Email System Using PGP and GPG Encryption And Development Of Script
+      3. Content Based Recommendation System Using BOW and TF IDF
+      4. Image Filter Effects System Using Facial Keypoints Detection
+      5. Network Traffic Analysis Email Header Review Ports Scanning and SQL Injection
+      
+ 🔭 I’m currently working on Projects :
+      1. Real Time Lips Syncing model using DCGAN 
+      2. Are You a bot ? A Captcha Breaking System
+      3. An Advanced News Credibility Analysis System 
+      
+ 🌱 I’m currently learning :
+      1. Machine Learning Practices like DCGAN,NLP,Computer Vision,etc in depth.
+      2. Cyber Security Subdomains like Software Security,Network Security,etc
+      
+ 😄 I’m looking to collaborate on any Machine Learning or Cyber Security project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🤔 I’m looking for help with Chatbot for Psycological Help.
+
+ 💬 Ask me about Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
+  
+ 📫 How to reach me: ...
+  Portfolio Link : https://drive.google.com/file/d/1GxSAKNUgDsj2i2H5Vd0DAmJ1HJ05U5Jz/view?usp=drivesdk
+  Linkedin : https://www.linkedin.com/in/misha-dey-b12531190
+  Email id : misha.2june@gmail.com
+  
+ ⚡ Fun fact: I need to continuously watch movies in order to work.

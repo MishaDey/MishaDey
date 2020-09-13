@@ -3,7 +3,7 @@ I am Misha Dey. I primarily work in the field of Machine Learning and Cyber Secu
 
 Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
 
- ✨ I’have worked on Projects :
+  ✨ I’have worked on Projects :
  
       1. Analysis Of Effects Of News Sentiments On Stock Predictions 
       
@@ -16,12 +16,17 @@ Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Lang
       5. Network Traffic Analysis Email Header Review Ports Scanning and SQL Injection
       
  🔭 I’m currently working on Projects :
+ 
       1. Real Time Lips Syncing model using DCGAN 
+      
       2. Are You a bot ? A Captcha Breaking System
+      
       3. An Advanced News Credibility Analysis System 
       
  🌱 I’m currently learning :
+ 
       1. Machine Learning Practices like DCGAN,NLP,Computer Vision,etc in depth.
+      
       2. Cyber Security Subdomains like Software Security,Network Security,etc
       
  😄 I’m looking to collaborate on any Machine Learning or Cyber Security project.
@@ -30,9 +35,12 @@ Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Lang
 
  💬 Ask me about Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
   
- 📫 How to reach me: ...
+ 📫 How to reach me:
+ 
   Portfolio Link : https://drive.google.com/file/d/1GxSAKNUgDsj2i2H5Vd0DAmJ1HJ05U5Jz/view?usp=drivesdk
+  
   Linkedin : https://www.linkedin.com/in/misha-dey-b12531190
+  
   Email id : misha.2june@gmail.com
   
  ⚡ Fun fact: I need to continuously watch movies in order to work.

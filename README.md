@@ -36,11 +36,9 @@ Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Lang
  💬 Ask me about Machine Learning, Cyber Security, Data Science, Natural Language Processing, Computer Vision.
   
  📫 How to reach me:
- 
-  Portfolio Link : https://drive.google.com/file/d/1GxSAKNUgDsj2i2H5Vd0DAmJ1HJ05U5Jz/view?usp=drivesdk
   
   Linkedin : https://www.linkedin.com/in/misha-dey-b12531190
   
   Email id : misha.2june@gmail.com
    
- ⚡ Fun fact: I need to continuously watch movies in order to work.
+ ⚡ Fun fact: I need to continuously watch TV in order to work.

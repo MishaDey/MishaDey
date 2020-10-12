@@ -15,13 +15,13 @@ Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Lang
       
       5. Network Traffic Analysis Email Header Review Ports Scanning and SQL Injection
       
+      6. Semantic Image-Based and Text-based CAPTCHA Breaking System
+      
  🔭 I’m currently working on Projects :
  
       1. Real Time Lips Syncing model using DCGAN 
       
-      2. Are You a bot ? A Captcha Breaking System
-      
-      3. An Advanced News Credibility Analysis System 
+      2. An Advanced News Credibility Analysis System 
       
  🌱 I’m currently learning :
  

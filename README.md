@@ -15,11 +15,15 @@ Areas of Interest : Machine Learning, Cyber Security, Data Science, Natural Lang
       
       5. Network Traffic Analysis Email Header Review Ports Scanning and SQL Injection
       
-      6. Semantic Image-Based and Text-based CAPTCHA Breaking System
+      6. Text-based CAPTCHA Breaking System
+      
+      7. Realtime Emotion Detection Model for Survelliance Cams
+      
+      8. Eye Blink Password Authentication System
       
  🔭 I’m currently working on Projects :
  
-      1. Real Time Lips Syncing model using DCGAN 
+      1. Semantic CAPTCHA Breaking System
       
       2. An Advanced News Credibility Analysis System 
       
